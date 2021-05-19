@@ -29,6 +29,7 @@ const StyledNav = styled.nav`
   height: 5rem;
   display: grid;
   grid-template-columns: 0.3fr 1fr;
+  margin-bottom: 2rem;
 `;
 
 const Logo = styled.div`
